@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pokdee
+- 👋 Hi, I’m Pokdee , you can call me John 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frontend
 - 📫johnpokdee@gmail.com
