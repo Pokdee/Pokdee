@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pokdee , you can call me John 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning web-dev
 - 📫johnpokdee@gmail.com
 
 <!---
