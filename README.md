@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pokdee , you can call me John 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web-dev
-- 📫johnpokdee@gmail.com
+  
 
 <!---
 Pokdee/Pokdee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
